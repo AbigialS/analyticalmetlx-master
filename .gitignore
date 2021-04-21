@@ -1,0 +1,40 @@
+.functional.sh
+std.out
+wdio.log
+.wdio.conf.dyn.js
+target
+output
+logs
+errorShots
+.ivy2
+.sbt-boot
+testdb*
+.DS_Store
+node_modules
+src/main/assets/build/source/
+config/configuration.local.xml
+config/configuration.xml
+*.log
+docs/Gemfile.lock
+docs/_site
+docs/.sass-cache
+docs/.jekyll-metadata
+lib-slu-only
+
+# emacs temp files
+*~
+\#*\#
+.\#*
+# vim
+*.swp
+
+# Idea files
+.idea
+*.iml
+*.ipr
+
+# Eclipse (scala-ide) files
+.settings/
+library/
+.classpath
+.project
